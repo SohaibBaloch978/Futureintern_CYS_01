@@ -1,4 +1,5 @@
 # Futureintern_CYS_01
+#Note: Please check the attached .doc file
 TASK 1
 
 Step 1: Download Kali Linux ISO
